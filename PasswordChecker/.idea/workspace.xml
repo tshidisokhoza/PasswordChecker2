@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="742523a2-e97c-43db-a030-053451b2e931" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WQsnKyHUF4KahLLL2cceThhTgf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.PasswordTest.print">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="PasswordChecker.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PasswordTest.print" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;PasswordTest.print&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="PasswordTest.prints" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;PasswordTest.prints&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.PasswordTest.print" />
+        <item itemvalue="Gradle.PasswordTest.prints" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="742523a2-e97c-43db-a030-053451b2e931" name="Default Changelist" comment="" />
+      <created>1579093318648</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579093318648</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="245" y="201" width="590" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579262017395">
+      <screen x="67" y="27" width="957" height="741" />
+    </state>
+    <state x="245" y="201" width="590" height="390" key="#com.intellij.fileTypes.FileTypeChooser/67.27.957.741@67.27.957.741" timestamp="1579262017395" />
+    <state width="911" height="175" key="GridCell.Tab.0.bottom" timestamp="1579507732689">
+      <screen x="67" y="27" width="957" height="741" />
+    </state>
+    <state width="911" height="175" key="GridCell.Tab.0.bottom/67.27.957.741@67.27.957.741" timestamp="1579507732689" />
+    <state width="911" height="175" key="GridCell.Tab.0.center" timestamp="1579507732689">
+      <screen x="67" y="27" width="957" height="741" />
+    </state>
+    <state width="911" height="175" key="GridCell.Tab.0.center/67.27.957.741@67.27.957.741" timestamp="1579507732689" />
+    <state width="911" height="175" key="GridCell.Tab.0.left" timestamp="1579507732689">
+      <screen x="67" y="27" width="957" height="741" />
+    </state>
+    <state width="911" height="175" key="GridCell.Tab.0.left/67.27.957.741@67.27.957.741" timestamp="1579507732689" />
+    <state width="911" height="175" key="GridCell.Tab.0.right" timestamp="1579507732689">
+      <screen x="67" y="27" width="957" height="741" />
+    </state>
+    <state width="911" height="175" key="GridCell.Tab.0.right/67.27.957.741@67.27.957.741" timestamp="1579507732689" />
+    <state x="286" y="101" width="509" height="590" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1579093875788">
+      <screen x="67" y="27" width="957" height="741" />
+    </state>
+    <state x="286" y="101" width="509" height="590" key="com.intellij.testIntegration.createTest.CreateTestDialog/67.27.957.741@67.27.957.741" timestamp="1579093875788" />
+  </component>
+</project>

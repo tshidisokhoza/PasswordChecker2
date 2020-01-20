@@ -37,6 +37,9 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -46,7 +49,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.PasswordTest.print">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="PasswordChecker.main" />
@@ -128,26 +131,30 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="245" y="201" width="590" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579262017395">
+    <state x="140" y="58" width="847" height="677" key="#Project_Structure" timestamp="1579517659269">
       <screen x="67" y="27" width="957" height="741" />
     </state>
-    <state x="245" y="201" width="590" height="390" key="#com.intellij.fileTypes.FileTypeChooser/67.27.957.741@67.27.957.741" timestamp="1579262017395" />
-    <state width="911" height="175" key="GridCell.Tab.0.bottom" timestamp="1579507732689">
+    <state x="140" y="58" width="847" height="677" key="#Project_Structure/67.27.957.741@67.27.957.741" timestamp="1579517659269" />
+    <state x="245" y="201" width="598" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579520120598">
       <screen x="67" y="27" width="957" height="741" />
     </state>
-    <state width="911" height="175" key="GridCell.Tab.0.bottom/67.27.957.741@67.27.957.741" timestamp="1579507732689" />
-    <state width="911" height="175" key="GridCell.Tab.0.center" timestamp="1579507732689">
+    <state x="245" y="201" width="598" height="390" key="#com.intellij.fileTypes.FileTypeChooser/67.27.957.741@67.27.957.741" timestamp="1579520120598" />
+    <state width="911" height="175" key="GridCell.Tab.0.bottom" timestamp="1579522146849">
       <screen x="67" y="27" width="957" height="741" />
     </state>
-    <state width="911" height="175" key="GridCell.Tab.0.center/67.27.957.741@67.27.957.741" timestamp="1579507732689" />
-    <state width="911" height="175" key="GridCell.Tab.0.left" timestamp="1579507732689">
+    <state width="911" height="175" key="GridCell.Tab.0.bottom/67.27.957.741@67.27.957.741" timestamp="1579522146849" />
+    <state width="911" height="175" key="GridCell.Tab.0.center" timestamp="1579522146848">
       <screen x="67" y="27" width="957" height="741" />
     </state>
-    <state width="911" height="175" key="GridCell.Tab.0.left/67.27.957.741@67.27.957.741" timestamp="1579507732689" />
-    <state width="911" height="175" key="GridCell.Tab.0.right" timestamp="1579507732689">
+    <state width="911" height="175" key="GridCell.Tab.0.center/67.27.957.741@67.27.957.741" timestamp="1579522146848" />
+    <state width="911" height="175" key="GridCell.Tab.0.left" timestamp="1579522146848">
       <screen x="67" y="27" width="957" height="741" />
     </state>
-    <state width="911" height="175" key="GridCell.Tab.0.right/67.27.957.741@67.27.957.741" timestamp="1579507732689" />
+    <state width="911" height="175" key="GridCell.Tab.0.left/67.27.957.741@67.27.957.741" timestamp="1579522146848" />
+    <state width="911" height="175" key="GridCell.Tab.0.right" timestamp="1579522146848">
+      <screen x="67" y="27" width="957" height="741" />
+    </state>
+    <state width="911" height="175" key="GridCell.Tab.0.right/67.27.957.741@67.27.957.741" timestamp="1579522146848" />
     <state x="286" y="101" width="509" height="590" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1579093875788">
       <screen x="67" y="27" width="957" height="741" />
     </state>

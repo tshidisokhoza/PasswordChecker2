@@ -21,17 +21,26 @@ try {
     boolean hasSpecialCharacter = false;
     int count = 0;
 
-    if (password.length() == 0) {
+    if (password.length() > 0) {
 
-        System.out.println("password should exist");
-        return false;
-
+        count++;
 
     }
-    if (password.length() < 8 && password.length() > 0) {
-        System.out.println("password should be longer than than 8 characters");
+    else {
+        PWL.error("password should exist");
+        return false;
+
+    }
+    if (password.length() >= 8 && password.length() > 0) {
+        count++;
+
+    }
+    else{
+        PWL.error("password should be longer than than 8 characters");
         return false;
     }
+
+
     for (int i = 0; i < password.length(); i++) {
         if (Character.isLowerCase(password.charAt(i))) {
             hasLowerCase = true;

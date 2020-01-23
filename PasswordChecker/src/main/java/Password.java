@@ -5,16 +5,12 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 
 public class Password {
-    File file = new File("ErrorFile.txt");
+
 
         Logger PWL = LogManager.getLogger(Password.class);
     public boolean passwordIsValid(String password) {
 try {
 
-    if(file.createNewFile())
-    {
-        System.out.println("file already exists");
-    }
     boolean hasUpperCase = false;
     boolean hasLowerCase = false;
     boolean hasDigit = false;

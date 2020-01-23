@@ -37,6 +37,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/demo" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -139,6 +140,14 @@
       <screen x="67" y="27" width="957" height="741" />
     </state>
     <state x="245" y="201" width="598" height="390" key="#com.intellij.fileTypes.FileTypeChooser/67.27.957.741@67.27.957.741" timestamp="1579520120598" />
+    <state x="278" y="145" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1579785475300">
+      <screen x="67" y="27" width="957" height="741" />
+    </state>
+    <state x="278" y="145" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/67.27.957.741@67.27.957.741" timestamp="1579785475300" />
+    <state x="328" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1579597600173">
+      <screen x="67" y="27" width="957" height="741" />
+    </state>
+    <state x="328" y="154" width="424" height="484" key="FileChooserDialogImpl/67.27.957.741@67.27.957.741" timestamp="1579597600173" />
     <state width="911" height="175" key="GridCell.Tab.0.bottom" timestamp="1579522146849">
       <screen x="67" y="27" width="957" height="741" />
     </state>
